@@ -1,22 +1,26 @@
-<h1 align="center">Hi there 👋, I'm Jay Depani 👨‍💻</h1>
+# Hi there, I'm Jay 👋
 
-<h3 align="center">A Passionate Full Stack Developer from Ahmedabad, Gujarat, India</h3>
+Welcome to my GitHub profile! I'm a passionate full-stack web developer with a love for all things tech. Here's a bit about me:
 
-<br/>
-<p>
-  Welcome to my profile! I'm a coder by passion & profession 👨‍💻, always eager to learn and build innovative solutions. With expertise in <strong>JavaScript, React, Next.js, Node.js, Express.js, MySQL, PostgreSQL, and MongoDB</strong>, I have <strong>4 years</strong> of experience in web development.
-</p>
-<h4>🚀 What I Do:</h4>
-<ul>
-<li>Develop high-performance web applications with <strong>React & Next.js</strong></li>
-<li>Build robust backend systems with <strong>Node.js, Express, and Nest.js</strong></li>
-<li>Optimize databases using <strong>MySQL, PostgreSQL & MongoDB</strong></li>
-<li>Work on cloud deployments & scalable architectures</li>
-</ul>
-<h4>🤝 Let's Connect!</h4>
-<ul>
-  <li>Looking to collaborate on exciting projects or freelance opportunities</li>
-  <li>Ask me anything about <strong>JavaScript, React, Next.js, Node.js, Express.js, Nest.js, MySQL, PostgreSQL, MongoDB, and REST APIs</strong></li>
-  <li>📧 Email: <a href="mailto:work.depani@gmail.com">work.depani@gmail.com</a></li>
-  <li>📞 Phone: <a href="tel:+916354145435">+91 6354145435</a></li>
-</ul>
+## About Me
+
+- 💡 Passionate about exploring the latest trends in tech.
+- 💼 I'm open to collaborating on exciting projects or new opportunities.
+- 💬 Ask me about anything related to software development.
+- 📫 How to reach me: [work.depani@gmail.com](mailto:work.depani@gmail.com)
+
+## GitHub Stats
+
+![workjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=workjay&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=workjay&layout=compact&theme=radical)
+
+## Connect with Me
+
+- [Upwork](https://www.upwork.com/freelancers/~01abb74e514da03118?mp_source=share)
+- [LinkedIn](https://www.linkedin.com/in/jay-depani-500408204/)
+- [X](https://x.com/@depani_jay)
+
+Thanks for stopping by! Have a great day! 😊
