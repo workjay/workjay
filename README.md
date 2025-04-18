@@ -21,6 +21,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack web developer with a l
 
 - [Portfolio Website](https://jaydepani.vercel.app/)
 - [Upwork](https://www.upwork.com/freelancers/~01abb74e514da03118?mp_source=share)
-- [LinkedIn](https://www.linkedin.com/in/jay-depani-500408204/)
+- [LinkedIn](https://www.linkedin.com/in/workjay/)
 
 Thanks for stopping by! Have a great day! 😊
